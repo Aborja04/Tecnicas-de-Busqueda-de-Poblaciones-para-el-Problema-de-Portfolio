@@ -1,5 +1,7 @@
 # Técnicas de Búsqueda de Poblaciones para el Problema de Portfolio
 
+Proyecto asignatura Metaheurísticas.
+
 ## Introducción
 > *El problema del portfolio consiste en encontrar la asignación óptima de capital entre un conjunto de N activos
 financieros disponibles, de forma que se maximice el beneficio y se minimice el riesgo.
