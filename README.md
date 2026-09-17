@@ -1,4 +1,4 @@
-# Practicas_MH
+# Técnicas de Búsqueda de Poblaciones para el Problema de Portfolio
 
 ## Introducción
 > *El problema del portfolio consiste en encontrar la asignación óptima de capital entre un conjunto de N activos
@@ -20,6 +20,7 @@ la búsqueda local.."*
 Nos situamos en la carpeta `software` y hacemos lo siguiente para limpiar el entorno y compilar:
 
 ```bash
+mkdir build
 cd build
 rm -rf *
 cmake ..
