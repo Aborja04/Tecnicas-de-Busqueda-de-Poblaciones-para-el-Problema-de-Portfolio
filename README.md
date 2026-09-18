@@ -11,8 +11,7 @@ El beneficio asociado a una solución se calcula a partir de los retornos histó
 riesgo se modela mediante la matriz de covarianzas, que recoge la dependencia entre los distintos activos. De esta
 forma, el problema plantea un compromiso entre maximizar la rentabilidad esperada y minimizar la variabilidad
 de dicha rentabilidad.
-Este problema lo vamos a abordar mediante el uso de técnicas metaheurísticas como los algoritmos greedy o
-la búsqueda local.."*
+Este problema lo vamos a abordar mediante el uso de técnicas metaheurísticas como los algoritmos greedy, la búsqueda local, genéticos, meméticos o enfriamiento simulado."*
 
 ---
 
